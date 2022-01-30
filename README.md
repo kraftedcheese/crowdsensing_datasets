@@ -51,4 +51,5 @@ Event Detection
 	- tweets_withevent.csv
 - merged with tweets_unfiltered.csv (superset of all melb tweets) to label tweets as is_event True or False
 	- tweets_isevent_tagged.csv
+	- Note: due to GitHub file size restrictions the dataset will be placed here: https://tinyurl.com/tweets-isevent
 
